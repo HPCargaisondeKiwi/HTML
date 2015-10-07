@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Doge</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+			<section id="banner">
+			<img src="jk.gif"/>
+				<h2><strong>Doge</strong> is love. Doge is life.</h2>
+				<p>Wow. Amaze. Such wow. Very good, mate</p>
+				<ul class="actions">
+					<li><a href="#" class="button special">Let's wow</a></li>
+				</ul>
+			</section>
+
+			<section id="one" class="wrapper special">
+				<div class="inner">
+					<header class="major">
+						<h2>Le doge</h2>
+					</header>
+					<div class="features">
+						<div class="feature">
+							<i class="fa fa-copy"></i>
+							<h3>Copy and such paste</h3>
+							<p>Doge is the most copied and pasted meme over the internet.</p>
+						</div>
+						<div class="feature">
+							<i class="fa fa-paper-plane-o"></i>
+							<h3>Amaze diversity</h3>
+							<p>Doge is probably one of the funniest dog over the whole universe. He can spread like a leaf can fly!</p>
+						</div>
+						<div class="feature">
+							<i class="fa fa-save"></i>
+							<h3>Wow, le saving</h3>
+							<p>Le doge est everywhere, don't try to escape him, you can't</p>
+						</div>
+						<div class="feature">
+							<i class="fa fa-envelope-o"></i>
+							<h3>( ͡° ͜ʖ ͡°)</h3>
+							<p>Send us a sample E-mail if you want more about doge</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="two" class="wrapper style2 special">
+				<div class="inner narrow">
+					<header>
+						<h2>Get in wow</h2>
+					</header>
+					<form class="grid-form" method="post" action="#">
+						<div class="form-control narrow">
+							<label for="name">Wow such name</label>
+							<input name="name" id="name" type="text">
+						</div>
+						<div class="form-control narrow">
+							<label for="email">amaze Email</label>
+							<input name="email" id="email" type="email">
+						</div>
+						<div class="form-control">
+							<label for="message">sample message</label>
+							<textarea name="message" id="message" rows="4"></textarea>
+						</div>
+						<ul class="actions">
+							<li><input value="Spread the wow" type="submit"></li>
+						</ul>
+					</form>
+				</div>
+			</section>
+			<footer id="footer">
+				<div class="copyright">
+					&copy; Powered by: <a href="http://windoge10.com/">Windoge 10</a>.
+				</div>
+			</footer>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
